@@ -1,0 +1,26 @@
+.main-container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+}
+
+h2 {
+    margin-bottom: 20px;
+}
+
+.buttons-container {
+    margin-top: 20px;
+}
+
+.action-button, .logout-button {
+    display: inline-block;
+    padding: 10px 15px;
+    margin-right: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: #007BFF;
+    border-radius: 5px;
+}
+
+.logout-button {
+    background-color: red; /* Cor diferente para o logoff */
+}

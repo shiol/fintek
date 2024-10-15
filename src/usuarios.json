@@ -1,0 +1,14 @@
+[
+    {
+        "nome": "João da Silva",
+        "cpf": "12345678900",
+        "dataNascimento": "1990-01-01",
+        "senha": "senha123"
+    },
+    {
+        "nome": "Maria Oliveira",
+        "cpf": "09876543211",
+        "dataNascimento": "1995-05-15",
+        "senha": "senha456"
+    }
+]
